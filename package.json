@@ -1,0 +1,15 @@
+{
+  "name": "capa_extra",
+  "version": "0.1.0",
+  "description": "Uma capa nova no fim da lista (Capa do Veio) e a marca que a destrava: cavar fundo, sozinho, sem vencer ninguém.",
+  "authors": [
+    "MineClaude"
+  ],
+  "private": true,
+  "scripts": {
+    "main": "dist/main/main.js",
+    "_sources": {
+      "main": "src/main.ts"
+    }
+  }
+}
